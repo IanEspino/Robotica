@@ -1,0 +1,23 @@
+-- Install configuration: ""
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//urdf
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//urdf/basic_link.urdf
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//launch
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//launch/basic_link_display.launch.py
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//launch/basic_link_display.launch.xml
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//rviz
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//rviz/basic_link_config.rviz
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/ament_index/resource_index/package_run_dependencies/blink_description
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/ament_index/resource_index/parent_prefix_path/blink_description
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/environment/ament_prefix_path.sh
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/environment/path.sh
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/environment/path.dsv
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/local_setup.bash
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/local_setup.sh
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/local_setup.zsh
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/local_setup.dsv
+-- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/package.dsv
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/ament_index/resource_index/packages/blink_description
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/cmake/blink_descriptionConfig.cmake
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/cmake/blink_descriptionConfig-version.cmake
+-- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/package.xml

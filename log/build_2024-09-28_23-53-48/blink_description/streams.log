@@ -1,0 +1,27 @@
+[0.067s] Invoking command in '/home/robousr/Downloads/Robotica-2025-prac1/build/blink_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/Downloads/Robotica-2025-prac1/build/blink_description -- -j2 -l2
+[0.311s] Invoked command in '/home/robousr/Downloads/Robotica-2025-prac1/build/blink_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/Downloads/Robotica-2025-prac1/build/blink_description -- -j2 -l2
+[0.441s] Invoking command in '/home/robousr/Downloads/Robotica-2025-prac1/build/blink_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/Downloads/Robotica-2025-prac1/build/blink_description
+[0.475s] -- Install configuration: ""
+[0.477s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//urdf
+[0.477s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//urdf/basic_link.urdf
+[0.478s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//launch
+[0.478s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//launch/basic_link_display.launch.py
+[0.478s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//launch/basic_link_display.launch.xml
+[0.484s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//rviz
+[0.484s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//rviz/basic_link_config.rviz
+[0.484s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/ament_index/resource_index/package_run_dependencies/blink_description
+[0.484s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/ament_index/resource_index/parent_prefix_path/blink_description
+[0.485s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/environment/ament_prefix_path.sh
+[0.485s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/environment/ament_prefix_path.dsv
+[0.485s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/environment/path.sh
+[0.485s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/environment/path.dsv
+[0.486s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/local_setup.bash
+[0.502s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/local_setup.sh
+[0.502s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/local_setup.zsh
+[0.502s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/local_setup.dsv
+[0.503s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/package.dsv
+[0.503s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/ament_index/resource_index/packages/blink_description
+[0.509s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/cmake/blink_descriptionConfig.cmake
+[0.509s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/cmake/blink_descriptionConfig-version.cmake
+[0.509s] -- Up-to-date: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/package.xml
+[0.515s] Invoked command in '/home/robousr/Downloads/Robotica-2025-prac1/build/blink_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/Downloads/Robotica-2025-prac1/build/blink_description
