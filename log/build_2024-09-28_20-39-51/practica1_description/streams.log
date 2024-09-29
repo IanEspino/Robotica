@@ -1,0 +1,45 @@
+[0.047s] Invoking command in '/home/robousr/Downloads/Robotica-2025-prac1/build/practica1_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/Downloads/Robotica-2025-prac1/src/practica1_description -DCMAKE_INSTALL_PREFIX=/home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description
+[0.228s] -- The C compiler identification is GNU 11.4.0
+[0.480s] -- The CXX compiler identification is GNU 11.4.0
+[0.531s] -- Detecting C compiler ABI info
+[0.774s] -- Detecting C compiler ABI info - done
+[0.805s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.805s] -- Detecting C compile features
+[0.805s] -- Detecting C compile features - done
+[0.815s] -- Detecting CXX compiler ABI info
+[1.216s] -- Detecting CXX compiler ABI info - done
+[1.244s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.249s] -- Detecting CXX compile features
+[1.249s] -- Detecting CXX compile features - done
+[1.253s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.881s] -- Found Python3: /home/robousr/.pyenv/shims/python3 (found version "3.10.12") found components: Interpreter 
+[3.791s] -- Configuring done
+[3.802s] -- Generating done
+[3.805s] -- Build files have been written to: /home/robousr/Downloads/Robotica-2025-prac1/build/practica1_description
+[3.821s] Invoked command in '/home/robousr/Downloads/Robotica-2025-prac1/build/practica1_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/Downloads/Robotica-2025-prac1/src/practica1_description -DCMAKE_INSTALL_PREFIX=/home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description
+[3.830s] Invoking command in '/home/robousr/Downloads/Robotica-2025-prac1/build/practica1_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/Downloads/Robotica-2025-prac1/build/practica1_description -- -j2 -l2
+[3.946s] Invoked command in '/home/robousr/Downloads/Robotica-2025-prac1/build/practica1_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/Downloads/Robotica-2025-prac1/build/practica1_description -- -j2 -l2
+[4.048s] Invoking command in '/home/robousr/Downloads/Robotica-2025-prac1/build/practica1_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/Downloads/Robotica-2025-prac1/build/practica1_description
+[4.075s] -- Install configuration: ""
+[4.075s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description//urdf
+[4.081s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description//urdf/basic_link.urdf
+[4.081s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description//launch
+[4.081s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description//launch/basic_link_display.launch.xml
+[4.082s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description//rviz
+[4.082s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description//rviz/basic_link_display.rviz
+[4.085s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/ament_index/resource_index/package_run_dependencies/practica1_description
+[4.087s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/ament_index/resource_index/parent_prefix_path/practica1_description
+[4.088s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description/environment/ament_prefix_path.sh
+[4.088s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description/environment/ament_prefix_path.dsv
+[4.088s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description/environment/path.sh
+[4.089s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description/environment/path.dsv
+[4.089s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description/local_setup.bash
+[4.089s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description/local_setup.sh
+[4.089s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description/local_setup.zsh
+[4.089s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description/local_setup.dsv
+[4.103s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description/package.dsv
+[4.103s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/ament_index/resource_index/packages/practica1_description
+[4.103s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description/cmake/practica1_descriptionConfig.cmake
+[4.103s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description/cmake/practica1_descriptionConfig-version.cmake
+[4.104s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/practica1_description/share/practica1_description/package.xml
+[4.115s] Invoked command in '/home/robousr/Downloads/Robotica-2025-prac1/build/practica1_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/Downloads/Robotica-2025-prac1/build/practica1_description

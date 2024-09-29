@@ -1,0 +1,42 @@
+[0.068s] Invoking command in '/home/robousr/Downloads/Robotica-2025-prac1/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/Downloads/Robotica-2025-prac1/src/my_package -DCMAKE_INSTALL_PREFIX=/home/robousr/Downloads/Robotica-2025-prac1/install/my_package
+[0.270s] -- The C compiler identification is GNU 11.4.0
+[0.628s] -- The CXX compiler identification is GNU 11.4.0
+[0.690s] -- Detecting C compiler ABI info
+[1.198s] -- Detecting C compiler ABI info - done
+[1.229s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.235s] -- Detecting C compile features
+[1.249s] -- Detecting C compile features - done
+[1.261s] -- Detecting CXX compiler ABI info
+[1.657s] -- Detecting CXX compiler ABI info - done
+[1.692s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.697s] -- Detecting CXX compile features
+[1.702s] -- Detecting CXX compile features - done
+[1.712s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.397s] -- Found Python3: /home/robousr/.pyenv/shims/python3 (found version "3.10.12") found components: Interpreter 
+[4.030s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.563s] -- Added test 'lint_cmake' to check CMake code style
+[4.581s] -- Added test 'xmllint' to check XML markup files
+[4.582s] -- Configuring done
+[4.602s] -- Generating done
+[4.603s] -- Build files have been written to: /home/robousr/Downloads/Robotica-2025-prac1/build/my_package
+[4.639s] Invoked command in '/home/robousr/Downloads/Robotica-2025-prac1/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/Downloads/Robotica-2025-prac1/src/my_package -DCMAKE_INSTALL_PREFIX=/home/robousr/Downloads/Robotica-2025-prac1/install/my_package
+[4.640s] Invoking command in '/home/robousr/Downloads/Robotica-2025-prac1/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/Downloads/Robotica-2025-prac1/build/my_package -- -j2 -l2
+[4.824s] Invoked command in '/home/robousr/Downloads/Robotica-2025-prac1/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/Downloads/Robotica-2025-prac1/build/my_package -- -j2 -l2
+[4.937s] Invoking command in '/home/robousr/Downloads/Robotica-2025-prac1/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/Downloads/Robotica-2025-prac1/build/my_package
+[4.980s] -- Install configuration: ""
+[4.980s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
+[4.980s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
+[4.981s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/environment/ament_prefix_path.sh
+[4.981s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/environment/ament_prefix_path.dsv
+[4.981s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/environment/path.sh
+[4.989s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/environment/path.dsv
+[4.990s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/local_setup.bash
+[4.990s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/local_setup.sh
+[4.997s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/local_setup.zsh
+[4.997s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/local_setup.dsv
+[5.006s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/package.dsv
+[5.013s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/ament_index/resource_index/packages/my_package
+[5.014s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/cmake/my_packageConfig.cmake
+[5.014s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/cmake/my_packageConfig-version.cmake
+[5.014s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/package.xml
+[5.018s] Invoked command in '/home/robousr/Downloads/Robotica-2025-prac1/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/Downloads/Robotica-2025-prac1/build/my_package

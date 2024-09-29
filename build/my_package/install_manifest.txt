@@ -1,0 +1,15 @@
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/environment/ament_prefix_path.sh
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/environment/ament_prefix_path.dsv
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/environment/path.sh
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/environment/path.dsv
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/local_setup.bash
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/local_setup.sh
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/local_setup.zsh
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/local_setup.dsv
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/package.dsv
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/ament_index/resource_index/packages/my_package
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/cmake/my_packageConfig.cmake
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/cmake/my_packageConfig-version.cmake
+/home/robousr/Downloads/Robotica-2025-prac1/install/my_package/share/my_package/package.xml

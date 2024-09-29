@@ -1,0 +1,46 @@
+[0.077s] Invoking command in '/home/robousr/Downloads/Robotica-2025-prac1/build/blink_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/Downloads/Robotica-2025-prac1/blink_description -DCMAKE_INSTALL_PREFIX=/home/robousr/Downloads/Robotica-2025-prac1/install/blink_description
+[0.344s] -- The C compiler identification is GNU 11.4.0
+[0.687s] -- The CXX compiler identification is GNU 11.4.0
+[0.748s] -- Detecting C compiler ABI info
+[1.339s] -- Detecting C compiler ABI info - done
+[1.381s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.382s] -- Detecting C compile features
+[1.384s] -- Detecting C compile features - done
+[1.393s] -- Detecting CXX compiler ABI info
+[1.695s] -- Detecting CXX compiler ABI info - done
+[1.715s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.718s] -- Detecting CXX compile features
+[1.726s] -- Detecting CXX compile features - done
+[1.736s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.664s] -- Found Python3: /home/robousr/.pyenv/shims/python3 (found version "3.10.12") found components: Interpreter 
+[4.623s] -- Configuring done
+[4.628s] -- Generating done
+[4.634s] -- Build files have been written to: /home/robousr/Downloads/Robotica-2025-prac1/build/blink_description
+[4.677s] Invoked command in '/home/robousr/Downloads/Robotica-2025-prac1/build/blink_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/Downloads/Robotica-2025-prac1/blink_description -DCMAKE_INSTALL_PREFIX=/home/robousr/Downloads/Robotica-2025-prac1/install/blink_description
+[4.681s] Invoking command in '/home/robousr/Downloads/Robotica-2025-prac1/build/blink_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/Downloads/Robotica-2025-prac1/build/blink_description -- -j2 -l2
+[4.876s] Invoked command in '/home/robousr/Downloads/Robotica-2025-prac1/build/blink_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/Downloads/Robotica-2025-prac1/build/blink_description -- -j2 -l2
+[4.975s] Invoking command in '/home/robousr/Downloads/Robotica-2025-prac1/build/blink_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/Downloads/Robotica-2025-prac1/build/blink_description
+[4.994s] -- Install configuration: ""
+[4.994s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//urdf
+[4.995s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//urdf/basic_link.urdf
+[4.997s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//launch
+[4.998s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//launch/basic_link_display.launch.py
+[4.999s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//launch/basic_link_display.launch.xml
+[4.999s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//rviz
+[5.000s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description//rviz/basic_link_config.rviz
+[5.001s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/ament_index/resource_index/package_run_dependencies/blink_description
+[5.002s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/ament_index/resource_index/parent_prefix_path/blink_description
+[5.006s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/environment/ament_prefix_path.sh
+[5.006s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/environment/ament_prefix_path.dsv
+[5.007s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/environment/path.sh
+[5.007s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/environment/path.dsv
+[5.007s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/local_setup.bash
+[5.007s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/local_setup.sh
+[5.020s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/local_setup.zsh
+[5.020s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/local_setup.dsv
+[5.021s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/package.dsv
+[5.023s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/ament_index/resource_index/packages/blink_description
+[5.024s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/cmake/blink_descriptionConfig.cmake
+[5.024s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/cmake/blink_descriptionConfig-version.cmake
+[5.024s] -- Installing: /home/robousr/Downloads/Robotica-2025-prac1/install/blink_description/share/blink_description/package.xml
+[5.076s] Invoked command in '/home/robousr/Downloads/Robotica-2025-prac1/build/blink_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/Downloads/Robotica-2025-prac1/build/blink_description
